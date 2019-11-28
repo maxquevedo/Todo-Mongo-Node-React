@@ -1,0 +1,25 @@
+body{
+    font-family: Arial;
+    text-align: center;
+}
+
+.todo{
+    background: #eee;
+    margin: 5px auto;
+    padding: 10px;
+    text-align: left;
+    width: 20%;
+    text-decoration: none;
+}
+
+.todo input{
+    background-color: #eee;
+    border: 0;
+    font-style: 1.25vw;
+    padding: 5px;
+    text-decoration: none;
+}
+
+.todo .done {
+    text-decoration: line-through;
+}
